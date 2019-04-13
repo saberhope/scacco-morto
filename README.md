@@ -21,3 +21,6 @@ scacco-morto
 > 
 > Cosa farebbe nei suoi panni? Beh… Farebbe meglio.
 ---
+
+Questo repository ospita la versione *cruda* di Scacco Morto, un gioco di ruolo sulla vita, le scelte e il destino.
+
