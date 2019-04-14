@@ -19,15 +19,20 @@ L’unica cosa davvero essenziale per giocare è la voglia di giocare. Tuttavia 
 
     Chi gioca Vita può discutere brevemente per mettersi d’accordo, ma il consiglio che posso darvi è di rimanere sul banale. Affidatevi alla vostra personale esperienza e alla vostra memoria. Non decidete troppa roba, giusto l’essenziale.
 
-3.  Chi gioca Vita descrive una vignetta, sequenza o illustrazione facendo attenzione alle seguenti cose, e avendo cura di non descrivere gli occhi della bambina:
+    Ecco una checklist di cose da decidere:
 
-    - Come si chiama?
-    - Dove si trova?
-    - Cosa ha indosso?
-    - Chi altro è presente?
-    - Cosa sta succedendo?
+    [ ] In che epoca e zona geografica siamo?
+    [ ] Qual'è il ceto sociale della famiglia?
+    [ ] Come si chiama la bambina?
 
-    NOTA: chiarire come fare decidere le cose ai giocatori. Fa tutto riferimento al punto 2
+3. A turno, Chi gioca vita descrive una vignetta (per dettagli su come funzionano le vignette vedi [3-Vignette](3-Vignette.md)). Questa vignette faranno riferimento tutte alla bambina all'età che avete deciso e potranno mostrare le varie occasioni in cui si può trovare (scuola, casa, parco giochi).
+
+    Sentitevi in dovere di decidere i suoi vestiti, di dare un carattere ai suoi amichetti e ai suoi genitori e di introdurre altre persone nella sua vita.
+
+    Assicuratevi di **non** fare una delle seguenti cose:
+
+    - Descrivere i suoi occhi, poiché questo sarà appannaggio di Chi gioca Morte
+    - Introdurre elementi sovrannaturali, poiché anche questo sarà appannaggio di Chi gioca Morte
 
 4.  Chi gioca Morte descrive gli occhi della bambina, che riflettono chi sia veramente. Nonostante la loro natura ultraterrena, però, nessun umano penserà mai che siano qualcosa di strano.
 
@@ -38,18 +43,16 @@ L’unica cosa davvero essenziale per giocare è la voglia di giocare. Tuttavia 
 
     Per intenderci, i genitori vedranno la bambina giocare con una enorme falce tagliente e sorrideranno dicendo “Checcarina”
 
-    Oppure potrebbe essere un ciondolo. Mettere esempi
-
 ## 2.3. Creazione altri personaggi
 
-Per ogni personaggio che è stato descritto durante la creazione di Morte (2.2.3), piazzate sulla scacchiera un pezzo bianco del tipo appropriato:
+A turno, chi gioca Vita piazza un pezzo bianco sulla scacchiera ispirandosi ai personaggi venuti fuori dalle vignette precedenti, e basandosi su queste idee:
 
 - Alfiere. Una persona con degli ideali. 
 - Cavallo. Una persona che non segue le regole. 
 - Re. Una persona potente. 
 - Torre. Una persona solida. 
 
-Potete discuterne brevemente, ma di nuovo, rimanete sul banale. Potrebbe capitare di voler aggiungere dei personaggi o di sostituirli. Non fatelo, avrete modo di farlo più avanti, senza problemi.
+Non c'è bisogno di discuterne con gli altri.
 
 Potete metterli dove volete nella scacchiera, ma più vicini saranno alla Regina Nera più possibilità avranno di influenzarla. Per la prima sessione piazzateli adiacenti o ad una casella di distanza da Morte.
 
