@@ -25,3 +25,37 @@ Esempio: vicino alla fine del gioco:
 In questa posizione la Regina Nera è alla settima riga, quindi la maggior parte della vita di Morte (personaggio) è alle sue spalle, e la fine del gioco è vicina.
 
 E' interessante notare come questo non ci dica in realtà nulla sull'età effettiva di Morte (personaggio). Potrebbe avere 10 anni, ed avere avuto una vita incredibilmente breve ma intensa, oppure 90 anni.
+
+# 4.1.1. Fasi della vita
+
+Ci sono otto righe, che corrisponderanno a 8 fasi della vita di Morte (personaggio). 
+
+Una fase non ha una durata specifica, e due fasi anche consecutive possono avere durate completamente diverse. 
+
+Le fasi corrispondono a momenti narrativi, e non a semplici età.
+
+> **Sbagliato**: 
+> La fase in cui Morte ha 16 anni
+> 
+> **Giusto**: La fase in cui Morte sta andando alle superiori
+
+# 4.1.2. Crescere
+
+Quando la Regina Nera avanza in una riga successiva, sta *Crescendo*, cioè sta passando in una diversa fase della sua vita.
+
+Questo può succedere per via di una mossa di Morte, o per una mossa di Vita.
+
+Durante la descrizione della vignetta bisogna far capire come mai ci troviamo in una nuova fase della vita. Ci sono due metodi:
+
+- Descrivere un grande cambiamento (cambio di scuola, nuovi amici, nuovi amori, pubertà)
+- Descrivere un dettaglio stilistico (ciondoli, acconciature, vestiti)
+
+Sono entrambi metodi validi, che vanno a dipingere Fasi molto diverse o poco diverse.
+
+Possono anche essere combinati, anche se è un po' overkill.
+
+> Esempi:
+> Morte sta prendendo il bus per andare al liceo. E' il suo primo giorno
+> Morte è a lezione come al solito. I suoi capelli però hanno le punte viola.
+> Morte passeggia mano nella mano con Elodìè, la nuova ragazza in viaggio di scambio.
+
