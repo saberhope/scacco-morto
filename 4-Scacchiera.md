@@ -8,7 +8,7 @@ Esempio: una scacchiera vuota:
 
     ----------------------------------------------------------------
 
-# 4.1. La scacchiera come misura dell'età di Morte (personaggio)
+## 4.1. La scacchiera come misura dell'età di Morte (personaggio)
 
 Il gioco inizia con la Regina Nera, che rappresenta Morte (personaggio) in una delle caselle della prima riga, e termina con la Regina Nera in una delle caselle dell'ultima riga.
 
@@ -26,7 +26,7 @@ In questa posizione la Regina Nera è alla settima riga, quindi la maggior parte
 
 E' interessante notare come questo non ci dica in realtà nulla sull'età effettiva di Morte (personaggio). Potrebbe avere 10 anni, ed avere avuto una vita incredibilmente breve ma intensa, oppure 90 anni.
 
-# 4.1.1. Fasi della vita
+### 4.1.1. Fasi della vita
 
 Ci sono otto righe, che corrisponderanno a 8 fasi della vita di Morte (personaggio). 
 
@@ -39,7 +39,7 @@ Le fasi corrispondono a momenti narrativi, e non a semplici età.
 > 
 > **Giusto**: La fase in cui Morte sta andando alle superiori
 
-# 4.1.2. Crescere
+### 4.1.2. Crescere
 
 Quando la Regina Nera avanza in una riga successiva, sta *Crescendo*, cioè sta passando in una diversa fase della sua vita.
 
