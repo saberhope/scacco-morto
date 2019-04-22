@@ -59,3 +59,38 @@ Possono anche essere combinati, anche se è un po' overkill.
 > Morte è a lezione come al solito. I suoi capelli però hanno le punte viola.
 > Morte passeggia mano nella mano con Elodìè, la nuova ragazza in viaggio di scambio.
 
+## 4.2. La scacchiera come misura delle relazioni
+
+La scacchiera è anche una mappa delle relazioni. Più un pezzo è vicino alla Regina Nera, più quel personaggio è vicino ed ha influenza su Morte.
+
+Non solo, la posizione dei pezzi bianchi nei confronti degli altri pezzi bianchi dice qualcosa sulla relazione tra quei due personaggi.
+
+### 4.2.1. Influenza e vicinanza
+
+![](img/4.2.1.png)
+
+    ----------------------------qB----K-----------------------------
+
+In questa posizione la Regina Nera è più vicina all'Alfiere che al Re. Questo significa che l'Alfiere è una figura più presente nella vita di Morte (Personaggio) in questa fase della vita. Considerando il Potere del Re, tuttavia, hanno entrambi la possibilità di Tirare la Regina Nera.
+
+### 4.2.2. Bloccare
+
+![](img/4.2.2.png)
+
+    -------------------RBN------q-----------------------------------
+
+In questa posizione la Regina Nera non può avanzare, e quindi non può Crescere. Ci possono essere varie interpretazioni di cosa questo significa. E' importante notare tuttavia che la Regina Nera può ancora muoversi lateralmente, o può Spingere via uno dei pezzi. 
+
+E' abbastanza difficile che la Regina Nera venga tenuta imprigionata dai pezzi bianchi. Questo richiederebbe che tutti i giocatori di vita fossero interessati a mantenerla bloccata ed è abbastanza difficile immaginare quale situazione possa portare a tale scelta.
+
+### 4.2.3. Inseguimento
+
+La Regina Nera è sempre il centro della rete di relazioni. Mentre Morte cresce capita che alcuni personaggi rimangano indietro, allontanandosi da lei. Per alcuni inseguire Morte diventa più semplice, per altri se perdono l'occasione è finita.
+
+![](img/4.2.3.png)
+
+    ---------------------------Bq----------------N-----R------------
+
+In questa posizione il Cavallo è rimasto leggermente indietro. Tuttavia poiché si muove di due caselle è semplicissimo raggiungere la Regina Nera anche in un unica mossa.
+
+La Torre invece è abbastanza condannata a essere sempre meno rilevante, a meno che almeno due giocatrici non siano determinate a farla riavvicinare a Morte.
