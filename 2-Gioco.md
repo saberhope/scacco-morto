@@ -135,4 +135,4 @@ Dopodiché chi gioca Vita le farà delle domande, a cui dovrà rispondere la ver
 - Hai fatto del tuo meglio?
 - Ed è stato abbastanza?
 
-Chi gioca vita potrà anche fare delle ulteriori domande a Morte, ma soltanto una a testa. Dovrà rispondere la verità anche a queste. 
+Ognuna delle giocatrici di Vita potrà fare una ulteriore domanda a morte. Dovrà rispondere la verità anche a queste domande. 
