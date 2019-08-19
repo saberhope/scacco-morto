@@ -91,7 +91,7 @@ Chi gioca Vita ha a disposizione molti tipi di mosse diversi
 
 - **Rimuovere**. Togli un pezzo dalla scacchiera. Descrivi come mai sparisce dalla vita di Morte. Morte non può farci molto, se non usare i suoi poteri (vedi 2.7)
 
-- **Tirare**. Se un pezzo è adiacente alla Regina Nera, puoi muoverla di una casella in modo che rimanga adiacente a quel pezzo. Descrivi come l’influenza di quel personaggio porti Morte ad avvicinarsi o ad allontanarsi dagli altri pezzi, o addirittura a crescere.
+- **Tirare**. Se un pezzo è adiacente alla Regina Nera, puoi muoverla di una casella in modo che rimanga adiacente a quel pezzo. Descrivi come l’influenza di quel personaggio porti Morte ad avvicinarsi o ad allontanarsi dagli altri pezzi, o addirittura a crescere. (NB, questa mossa è un po' complicata, è descritta più in dettaglio nel capitolo 7, sezione 7.2.3)
 
 - **Avvicinare**. Muovi un pezzo di una casella in modo che sia più vicino alla Regina Nera. Descrivi cosa fa il personaggio per avvicinarsi a Morte.
   
