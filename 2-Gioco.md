@@ -22,7 +22,9 @@ L’unica cosa davvero essenziale per giocare è la voglia di giocare. Tuttavia 
     Ecco una checklist di cose da decidere:
 
     [ ] In che epoca e zona geografica siamo?
+
     [ ] Qual'è il ceto sociale della famiglia?
+    
     [ ] Come si chiama la bambina?
 
 3. A turno, Chi gioca vita descrive una vignetta (per dettagli su come funzionano le vignette vedi [3-Vignette](3-Vignette.md)). Questa vignette faranno riferimento tutte alla bambina all'età che avete deciso e potranno mostrare le varie occasioni in cui si può trovare (scuola, casa, parco giochi).
