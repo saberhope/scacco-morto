@@ -23,7 +23,7 @@ L’unica cosa davvero essenziale per giocare è la voglia di giocare. Tuttavia 
 
     [ ] In che epoca e zona geografica siamo?
 
-    [ ] Qual'è il ceto sociale della famiglia?
+    [ ] Qual è il ceto sociale della famiglia?
     
     [ ] Come si chiama la bambina?
 
