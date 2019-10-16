@@ -23,7 +23,7 @@ L’unica cosa davvero essenziale per giocare è la voglia di giocare. Tuttavia 
 
     [ ] In che epoca e zona geografica siamo?
 
-    [ ] Qual'è il ceto sociale della famiglia?
+    [ ] Qual è il ceto sociale della famiglia?
     
     [ ] Come si chiama la bambina?
 
@@ -77,7 +77,7 @@ Un singolo movimento può rientrare in una o entrambe queste mosse:
 
     Descrivi Morte un può più vecchia, in una situazione che faccia vedere che è passato del tempo. Ricorda che le piccole cose fanno la differenza. Dai agli altri giocatori spunti e appigli per le loro mosse.
 
-- **Avvicinarsi**. La regina riduce la distanza che la separa da un altro pezzo. Descrivi qual’è l’evento che li avvicina.  Dai agli altri giocatori spunti e appigli per le loro mosse.
+- **Avvicinarsi**. La regina riduce la distanza che la separa da un altro pezzo. Descrivi qual è l’evento che li avvicina.  Dai agli altri giocatori spunti e appigli per le loro mosse.
 
 La morte ha anche una mossa per muovere altri pezzi:
 

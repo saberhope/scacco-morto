@@ -49,7 +49,7 @@ Nota che questo è l'unico movimento che puoi far fare ai pezzi Bianchi. Loro ro
 
 ### 7.2.3 Tirare
 
-Questa mossa è un po' complicata. Praticamente se la Regina Nera è adiacente a un pezzo, puoi muoverla di una casella in modo che continui a rimanere adiacente. Ricorda che la Regina Nera non può mai indietreggiare e PERCHÈ CERCHI DI SPOSTARE I PEZZI FUORI DALLA SCACCHIERA, NON SI GIOCA COSÌ.
+Questa mossa è un po' complicata. Praticamente se la Regina Nera è adiacente a un pezzo, puoi muoverla di una casella in modo che continui a rimanere adiacente. Ricorda che la Regina Nera non può mai indietreggiare e PERCHÉ CERCHI DI SPOSTARE I PEZZI FUORI DALLA SCACCHIERA, NON SI GIOCA COSÌ.
 
 ![](img/7.2.3.png)
 

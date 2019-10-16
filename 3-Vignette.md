@@ -23,7 +23,7 @@ In molti giochi c’è una fase chiamata *Gioco Libero*, in cui i giocatori si m
 
 In molti casi succede di avere in mente una immagine fighissima, che però richiede di stare a raccontare per 10 minuti tutti i meravigliosi cartigli infissi su una porta (sto guardando te, Umberto Eco). Ecco, no. Bisogna stare concisi e andare dritto al punto. Sono vignette, mica splash pages super illustrate.
 
-> **Sbagliato**: “Morte ha un cane, no, ecco però quel giorno il cane non si sentiva bene, quindi lo ha portato dal veterinario. Ecco, però lì non c’è il solito veterinario. C’è una tizia molto carina e giovane, avrà la stessa eta di Morte. Lo studio ha i poster di tutti i cani e gatti morti e Morte e’ preoccupata, sta lì a fare le coccole al cane, poverino, che sta male. La veterinaria lo visita e vede che praticamente non era niente, aveva tipo mangiato un po’ di cioccolata ed era stato male.”
+> **Sbagliato**: “Morte ha un cane, no, ecco però quel giorno il cane non si sentiva bene, quindi lo ha portato dal veterinario. Ecco, però lì non c’è il solito veterinario. C’è una tizia molto carina e giovane, avrà la stessa eta di Morte. Lo studio ha i poster di tutti i cani e gatti morti e Morte è preoccupata, sta lì a fare le coccole al cane, poverino, che sta male. La veterinaria lo visita e vede che praticamente non era niente, aveva tipo mangiato un po’ di cioccolata ed era stato male.”
 
 > **Giusto**: “Andando dal veterinario, Morte conosce la nuova veterinaria, molto carina e della sua stessa età, che si prende cura del cane e la tranquillizza”
 
