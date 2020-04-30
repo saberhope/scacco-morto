@@ -92,3 +92,7 @@ Fortunatamente essendo un gioco a turni, `Scacco Morto` permette di usare una pr
   - Una situazione di gioco ti sta ...
 
 AAAAAAAAAAAAAAH non riesco a scrivere
+
+## 6.5 Quando Recchioni vuole giocare un nazista
+
+A volte succede che Roberto Recchioni si metta in testa di voler giocare un nazista. Quando questo succede, al vostro tavolo di Scacco Morto, prendete la scacchiera e dategliela in testa, dopodiché tornate a casa dai vostri bambini, date loro una carezza e cantate loro Bella Ciao
